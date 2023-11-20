@@ -34,7 +34,7 @@ n/a
 If you have any questions, contact me at [Overview. This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can't cover every edge case, so if you need more ...](mailto:Overview. This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can't cover every edge case, so if you need more ...) 
 
 ## Links && Images
-![Github Live:](https://mattestinb.github.io/dog-1-bone/)
+[Github Live:](https://mattestinb.github.io/dog-1-bone/)
 ![Image](https://github.com/mattestinb/dog-1-bone/blob/main/01-html-css-git-homework-demo.png)
 
  
